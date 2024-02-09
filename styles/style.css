@@ -245,6 +245,8 @@ ol {
 
 .content__card-link {
   display: block;
+  z-index: -1;
+  position: relative;
   padding: 2px;
 }
 
