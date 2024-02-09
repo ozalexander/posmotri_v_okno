@@ -242,6 +242,10 @@ ol {
   object-fit: cover;
 }
 
+.content__video-card-description-container {
+  max-width: 196px;
+}
+
 .content__card-link {
   display: block;
   padding: 2px;
