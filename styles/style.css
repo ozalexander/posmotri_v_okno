@@ -73,7 +73,7 @@ ol {
   display: grid;
   grid-template-columns: 225px 212px 194px;
   gap: 40px;
-  margin-top: 18px;
+  margin-top: 15px;
   color: #fff;
   font-weight: 400;
   font-size: 18px;
@@ -178,7 +178,7 @@ ol {
 }
 
 .search-form__submit-button {
-  margin-top: auto;
+  margin-top: 17px;
 }
 
 .content__details {
@@ -207,7 +207,7 @@ ol {
   flex-direction: column;
   gap: 30px;
   min-width: 399px;
-  height: 300px;
+  height: 298px;
   padding: 2px;
   overflow-y: auto;
 }
@@ -284,5 +284,5 @@ ol {
 }
 
 .more-button {
-  margin-top: 4px;
+  margin-top: 2px;
 }
